@@ -13,7 +13,7 @@
         fill="{stroke_color}" />
     <path
         d="M533.607 476.305L534.98 405.052C468.049 408.68 413 464.088 413 531.863V644.47C483.919 620.232 534.227 554.454 533.607 476.332L533.607 476.318L533.607 476.305Z"
-        fill="{wings_right_color}" stroke="{stroke_color}" stroke-width="2" />
+        fill="{wing_right_color}" stroke="{stroke_color}" stroke-width="2" />
     <path
         d="M502.113 500C502.113 499.724 502.336 499.5 502.613 499.5C502.889 499.5 503.113 499.724 503.113 500H502.113ZM502.113 560.012V500H503.113V560.012H502.113Z"
         fill="{stroke_color}" />
