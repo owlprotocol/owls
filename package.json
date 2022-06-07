@@ -1,0 +1,24 @@
+{
+  "name": "owls",
+  "version": "1.0.0",
+  "description": "Crypto Owls are owlprotocol.xyz demo collection.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owlprotocol/owls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owlprotocol/owls/issues"
+  },
+  "homepage": "https://github.com/owlprotocol/owls#readme",
+  "dependencies": {
+    "ipfs-http-client": "^57.0.1"
+  }
+}
