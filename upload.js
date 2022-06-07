@@ -49,4 +49,4 @@ export async function uploadERC721Many(
     );
 }
 
-const path = "Qma4WJuQEykmYwh9iqzd2zPMU3sZa2SHJDpMfNBEJfCfMD"
+const path = "QmVCa7ztVp1dXiiyAS5xME6bj2ADT9wmA5KQSW1BjtT2xo"
